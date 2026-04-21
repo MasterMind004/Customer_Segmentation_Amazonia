@@ -93,12 +93,19 @@ Mobile-optimized dashboard layout
 
 📁 Project Structure
 customer-segmentation-dashboard/
+
 │
+
 ├── customer_segmentation_dataset.csv
+
 ├── CustomerSegmentation.pbix
+
 ├── dashboard_screenshot.png
+
 ├── README.md
+
 └── Customer_Segmentation_Report.pdf
+
 📜 License
 
 This project is developed for academic purposes as part of the B.Tech CSE curriculum.
