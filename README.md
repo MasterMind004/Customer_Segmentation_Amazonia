@@ -50,6 +50,7 @@ Dashboard Development – Building an interactive interface
 
 <img width="1154" height="649" alt="image" src="https://github.com/user-attachments/assets/43a4018a-b719-47ef-8986-7991cfb2da89" />
 
+
 📈 Key Features
 🔹 KPI Indicators
 Total Customers
@@ -89,6 +90,7 @@ Predictive analytics using machine learning
 Customer Lifetime Value (CLV) modeling
 Customer churn prediction
 Mobile-optimized dashboard layout
+
 📁 Project Structure
 customer-segmentation-dashboard/
 │
